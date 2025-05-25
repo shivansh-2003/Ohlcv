@@ -1,0 +1,12 @@
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+plotly>=5.15.0
+lightweight-charts
+ipykernel
+openpyxl
+langchain
+langchain-google-genai
+langchain-core
+google-generativeai
+python-dotenv
